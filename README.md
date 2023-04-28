@@ -1,8 +1,8 @@
-#*Description*
+# *Description*
 
 A simple UNIX command line interpreter written in C. It allows users to enter commands, which are then executed by the shell. Shell Yeah supports command lines with or without arguments and can handle the PATH. It also includes several built-in commands such as exit and env.
 
-#*Installation*
+# *Installation*
 
 To install Shell Yeah, follow these steps:
 
@@ -10,7 +10,7 @@ To install Shell Yeah, follow these steps:
     Compile the code: gcc -Wall -Werror -Wextra -pedantic *.c -o shell
     Run the shell: ./shell
 
-#*Usage*
+# *Usage*
 
 Shell Yeah supports several built-in commands, including:
 
