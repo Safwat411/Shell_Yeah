@@ -34,3 +34,8 @@ shell
 
 $ /bin/ls
 file1 file2
+
+# *Authors*
+
+Sherif Safwat <sherifsafwat49@gmail.com>
+Ahmed Mamdouh <ahmedholdo@gmail.com>
