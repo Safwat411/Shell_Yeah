@@ -17,10 +17,10 @@ char *_mem_fill(char *s, char b, unsigned int n)
 }
 
 /**
- * ffree - frees a string of strings
+ * free_strings - frees a string of strings
  * @pp: string of strings
  */
-void ffree(char **pp)
+void free_strings(char **pp)
 {
 	char **a = pp;
 
